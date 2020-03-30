@@ -1,4 +1,4 @@
-{
+{"thietBi":{
 "LoaiThietBi":"PB3AFFF1-5",
 "HangMuc":"Điểm đo chính ĐGL-131",
 "SanXuatTai":"Anh",
@@ -13,4 +13,5 @@
 "DienNangTacDung":0.2,
 "DienNangPhanKhang":2
 
+}
 }

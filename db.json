@@ -1,17 +1,17 @@
-{"thietBi":{
-"LoaiThietBi":"PB3AFFF1-5",
-"HangMuc":"Điểm đo chính ĐGL-131",
-"SanXuatTai":"Anh",
-"SanXuatNam":"2019",
-"Hieu":"Elster A1700",
-"ĐonViDo":"MWh",
-"SoLanLapTrinh":23,
-"NgayKiemDinh":"23/12/2019", 
-"DienApDinhMuc":"3x63.5/110",
-"DongDienDinhMuc":"3x1(1,2)",
-"SoCheTao":19055820,
-"DienNangTacDung":0.2,
-"DienNangPhanKhang":2
-
-}
+{
+    "thietBi": {
+        "LoaiThietBi": "PB3AFFF1-5",
+        "HangMuc": "Điểm đo chính ĐGL-131",
+        "SanXuatTai": "Anh",
+        "SanXuatNam": "2019",
+        "Hieu": "Elster A1700",
+        "ĐonViDo": "MWh",
+        "SoLanLapTrinh": 23,
+        "NgayKiemDinh": "23/12/2019",
+        "DienApDinhMuc": "3x63.5/110",
+        "DongDienDinhMuc": "3x1(1,2)",
+        "SoCheTao": 19055820,
+        "DienNangTacDung": 0.2,
+        "DienNangPhanKhang": 2
+    }
 }

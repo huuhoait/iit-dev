@@ -16,5 +16,12 @@
             "DienNangTacDung": 0.2,
             "DienNangPhanKhang": 2
         }
-    ]
+    ],
+"users":[{
+    "id":"1414 c141414 14",
+    "email": "hoale@gmail.com",
+    "name": "Hoa Le",
+    "phone":"0975411966"
+    'token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+}]
 }
